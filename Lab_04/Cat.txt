@@ -1,0 +1,5 @@
+The color of the cat's eyes: Brown
+The color of the cat's fur: White
+Type of cat fur: Long-haired
+Do not touch, the cat focused on the prey!!!
+Time to hunt for prey: 3,38 s. 
